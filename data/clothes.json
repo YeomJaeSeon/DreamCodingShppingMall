@@ -1,0 +1,49 @@
+{
+  "clothes": [
+    {
+      "type": "t",
+      "color": "blue",
+      "src": "../imgs/blue_t.png"
+    },
+    {
+      "type": "s",
+      "color": "blue",
+      "src": "../imgs/blue_s.png"
+    },
+    {
+      "type": "p",
+      "color": "blue",
+      "src": "../imgs/blue_p.png"
+    },
+    {
+      "type": "t",
+      "color": "pink",
+      "src": "../imgs/pink_t.png"
+    },
+    {
+      "type": "s",
+      "color": "pink",
+      "src": "../imgs/pink_s.png"
+    },
+    {
+      "type": "p",
+      "color": "pink",
+      "src": "../imgs/pink_p.png"
+    },
+    {
+      "type": "t",
+      "color": "yellow",
+      "src": "../imgs/yellow_t.png"
+    },
+    {
+      "type": "s",
+      "color": "yellow",
+      "src": "../imgs/yellow_s.png"
+    },
+    {
+      "type": "p",
+      "color": "yellow",
+      "src": "../imgs/yellow_p.png"
+    }
+  ]
+}

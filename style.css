@@ -57,13 +57,13 @@ li {
 .menu__select.color {
   margin: 0px 2px;
 }
-.blue {
+.blueBtn {
   background-color: var(--color-blue);
 }
-.yellow {
+.yellowBtn {
   background-color: var(--color-yellow);
 }
-.pink {
+.pinkBtn {
   background-color: var(--color-pink);
 }
 
@@ -75,11 +75,14 @@ li {
 .content__item {
   background-color: var(--color-white);
   margin: 10px 10px;
-  display: flex;
-  align-items: center;
+  display: none;
 }
 .content__item img {
   width: 40px;
   height: 40px;
   margin: 5px 10px;
+}
+.content__item.active {
+  display: flex;
+  align-items: center;
 }
